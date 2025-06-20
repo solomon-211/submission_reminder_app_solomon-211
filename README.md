@@ -10,7 +10,7 @@ This is a shell-based application that helps monitor students' assignment submis
 
 ## Application Overview
 
-The submission reminder application helps student teachers keep track of who has submitted and who has not submitted their assignments while reminding them of the remaining days. 
+- The submission reminder application helps student teachers keep track of who has submitted and who has not submitted their assignments while reminding them of the remaining days. 
 
 ### The Installation and Setup can be done by:
 
