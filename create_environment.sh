@@ -179,7 +179,7 @@ fi
 sed -i.bak "s/^ASSIGNMENT=.*/ASSIGNMENT=\"$new_assignment\"/" "$config_file"
 rm -f "$config_file.bak"
 
-# let them know it worked and run the check
+# Display how it worked and run the check
 echo "Assignment updated to: $new_assignment"
 bash "$user_dir/startup.sh"
 EOF
